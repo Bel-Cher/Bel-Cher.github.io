@@ -1,0 +1,198 @@
+body {
+  color: #272222;
+  background: #eae5cf;
+  min-width: 600px;
+  margin-top: 0px;
+  margin-right: auto;
+  
+  font-family: 'ArialMT', 'Arial', 'sans-serif';
+  font-weight: normal;
+  font-variant: normal;
+  font-size: 16px;
+
+  font-style: normal;
+  text-decoration: none;
+  text-transform: none;
+}
+
+
+#navigation {
+height: 25px;
+width:800px;
+margin: 30px auto 30px auto;
+#border:#808080 2px solid;  /* debuging */
+}
+
+#navigation table {
+margin: 0 auto 0 auto;
+width: 80%;
+border-collapse: collapse;
+}
+
+#navigation table td {
+width: 100px;
+text-align: center;
+font-weight: bold;
+#border:#000000 2px solid;
+}
+
+#navigation table th {
+ color: #453c3b;
+width: 100px;
+text-align: center;
+font-weight: bold;
+#border:#000000 2px solid;
+}
+
+#navigation hr {
+  border: 0;
+  width: 80%;
+  color: #000;
+  background-color: #000;
+  height: 1px;
+}
+
+#name {
+       #height: 70px;
+       #width:800px;
+	color: #666666;
+	font-size: 32px;
+	font-weight: bold;
+	text-align: center;
+	#margin: T, R, B, L;
+	margin: 15px auto 15px auto;        
+}
+
+
+a {
+    color: #6d6554;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #272222;
+}
+
+#main {
+	margin-top: 15px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 0;
+   width:650px;
+        #background:#9c9;
+}
+
+
+#main img {
+  	#display: block;
+  	height:400px;
+    margin-left: auto;
+    margin-right: 20px;
+/*   these three lines above center the image   */
+    margin-bottom: 0;
+   #background:#fff; 
+}
+
+#main bold {
+color: #272222;
+}
+
+#main table.a {
+color: #555555;
+font-weight: 700;
+font-size: 16px;
+line-height:20px;
+width: 300px;
+	#margin-bottom: 40px;
+	border-collapse: collapse;
+	#background:#ccc;	
+}
+
+#main table.teaching {
+color: #453c3b;
+font-weight: 100;
+font-size: 14px;
+line-height:20px;
+width: 650px;
+/*margin-bottom: 40px;*/
+border-collapse: collapse;
+border:#666 1px solid;
+}
+
+.teaching th {
+font-weight: 900;
+font-size: 18px;
+}
+.teaching tr:nth-child(2n+3) {
+    background-color: #e5d6ba;
+  }
+.teaching tr:nth-child(2n+2) {
+    background-color: #f1edda;
+  }
+
+#main h1 {
+  	#font-family: 'ArialMT', 'Arial', 'sans-serif';
+	color: #666666;
+	font-size: 28px;
+	font-weight: bold;
+	text-align: center;
+}
+
+#main h2 {
+	color: #666666;
+
+}
+
+#main p {
+	line-height:21px;
+	text-indent:25px;
+}
+
+#main ol {
+	font-size: 14px;
+	line-height:20px;
+}
+
+#rightside {
+	position:relative;
+	width:350px;
+	height:400px;
+	float:right;
+	#background:#c99;
+}
+
+#rightside #brcorner {	
+position:absolute;
+bottom:0px;
+right:0px;
+	#background:#aaa;
+}
+
+#footer
+{
+        margin: 0 auto;
+        width:800px;
+        padding:0;
+	font-size: .8em;
+        border:#ccc 0px solid;
+}
+
+
+#footer table {
+border-collapse: collapse;
+margin: 0 0;
+font-size: .9em;
+}
+
+#footer a {
+font-size: 1em;
+}
+
+small {
+  color: #666666;
+  font-size: .8em;
+}
+
+small.bold {
+  font-weight: bold;
+}

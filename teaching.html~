@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Jon Belcher</title>
+	<meta name="keywords" content="Hochschild Homology,Hochschild Cohomology, Cyclic Homology,Cyclic Cohomology, Noncommutative Geometry">
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8">
+	<meta http-equiv="content-style-type" content="text/css">
+
+	<link href="style.css" rel="stylesheet" type="text/css" />
+	<link rel="icon" href="images/cu_icon.png" type="image/png" />
+</head>
+<body>
+	<div id="navigation">
+		<table>
+			<tr>
+				<td><a href="index.html">Home</a></td>
+				<td><a href="research.html">Research</a></td>
+				<td><a href="teaching.html">Teaching</a></td>
+				<td><a href="CV.pdf">CV</a></td>
+			</tr>
+		</table>
+
+		<div class="hr"> <hr /> </div>
+
+	</div>   <! End of navigation div -->
+	<div id="main">
+
+		<h2>Current Teaching</h2>
+		<div>
+		MATH 1212: Data and Models - 006
+		MWF 1:00-2:00pm ECCR 155
+		<a href="canvas.colorado.edu/courses/20226">Course Website</a>			
+		</div>
+		<h2>University of Colorado Boulder</h2>	
+						
+			<table class="teaching" border="0" cellpadding="10">
+			<col width="130">
+				<tr bgcolor="b7b7b7"><th>Semester</th><th>Course</th><th>Position</th></tr>
+				<tr><td>Fall 2018</td><td>Math 1212: Data and Modeling</td><td>Instructor</td></tr>
+				<tr><td>Spring 2018</td><td>Math 1150: Precalculus</td><td>Teaching Assistant</td></tr>
+				<tr><td>Fall 2017</td><td>Math 2400: Calculus 3</td><td>Instructor</td></tr>
+				<tr><td>Spring 2017</td><td>Math 2400: Calculus 3</td><td>Instructor</td></tr>
+				<tr><td>Fall 2016</td><td>Math 1081: Calculus for Social Sciences and Business</td><td>Instructor</td></tr>
+				<tr><td>Spring 2016</td><td>Math 2510: Introduction to Statistics</td><td>Instructor</td></tr>
+				<tr><td>Fall 2015</td><td>Math 2510: Introduction to Statistics</td><td>Instructor</td></tr>
+				<tr><td>Summer 2015</td><td>Math 2300: Calculus 2</td><td>Instructor</td></tr>
+				<tr><td>Spring 2015</td><td>Math 2510: Introduction to Statistics</td><td>Instructor</td></tr>
+				<tr><td>Fall 2014</td><td>Math 2510: Introduction to Statistics</td><td>Instructor</td></tr>
+				<tr><td>Summer 2014</td><td>Math 2300: Calculus 2</td><td>Instructor</td></tr>
+				<tr><td>Spring 2014</td><td>Math 1150: Precalculus</td><td>Teaching Assistant</td></tr>
+				<tr><td>Fall 2013</td><td>Math 1300: Calculus 1</td><td>Instructor</td></tr>
+				<tr><td>Summer 2013</td><td>Math 1300: Calculus 1</td><td>Instructor</td></tr>
+				<tr><td>Spring 2013</td><td>Math 1300: Calculus 1</td><td>Teaching Assistant</td></tr>
+				<tr><td>Fall 2012</td><td>Math 1011: College Algebra</td><td>Teaching Assistant</td></tr>
+			</table>
+		<h2>The Ohio State University</h2>
+		
+				<table class="teaching" border="0" cellpadding="10">
+			<col width="130">
+				<tr bgcolor="b7b7b7"><th>Semester</th><th>Course</th><th>Position</th></tr>
+				<tr><td>Fall 2008</td><td>Math 148: Algebra and Trigonometry</td><td>Teaching Assistant</td></tr>
+				<tr><td>Summer 2008</td><td>Young Scholars Bridge Program</td><td>Mentor/Instructor</td></tr>
+			</table>	
+		
+		
+		
+
+
+</body>
+</html>
