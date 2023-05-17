@@ -134,6 +134,8 @@ width: 650px;
 /*margin-bottom: 40px;*/
 border-collapse: collapse;
 border:var(--dgreen) 1px solid;
+margin-left: auto;
+margin-right: auto;
 }
 
 .teaching th {
