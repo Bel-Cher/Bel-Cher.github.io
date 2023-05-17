@@ -1,7 +1,7 @@
 body {
   color: #272222;
   background: #eae5cf;
-  min-width: 600px;
+  min-width: 800px;
   margin-top: 0px;
   margin-right: auto;
   
@@ -18,7 +18,7 @@ body {
 
 #navigation {
 height: 25px;
-width:1000px;
+width:1200px;
 margin: 30px auto 30px auto;
 #border:#808080 2px solid;  /* debuging */
 }
