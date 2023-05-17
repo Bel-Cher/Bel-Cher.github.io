@@ -9,7 +9,7 @@
 :root {
   --dark: #363538;
   --beige: #d0b88a;
-  --green: #7c8879;
+  --green: #81917d;
   --dgreen: #171c16;
   --gray: #c7aa94;
   --thead: #7b7a7a;
@@ -126,7 +126,7 @@ width: 325px;
 }
 
 #main table.teaching {
-color: #869582;
+color: #99b192;
 font-weight: 100;
 font-size: 14px;
 line-height:20px;
