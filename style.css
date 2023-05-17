@@ -1,7 +1,25 @@
+
+/* colors:
+#36358
+#8D8C8A
+#F6F6F6
+#3BBA9C
+*/
+
+:root {
+  --dark: #363538;
+  --beige: #d0b88a;
+  --green: #7c8879;
+  --dgreen: #171c16;
+  --gray: #c7aa94;
+  --thead: #7b7a7a;
+
+}
+
 body {
-  color: #272222;
-  background: #eae5cf;
-  min-width: 1600px;
+  color: #92a38e;
+  background: #363538;
+  min-width: 800px;
   margin-top: 0px;
   margin-right: auto;
   
@@ -18,7 +36,7 @@ body {
 
 #navigation {
 height: 25px;
-width:1200px;
+width:850px;
 margin: 30px auto 30px auto;
 #border:#808080 2px solid;  /* debuging */
 }
@@ -47,15 +65,15 @@ font-weight: bold;
 #navigation hr {
   border: 0;
   width: 80%;
-  color: #000;
-  background-color: #000;
-  height: 1px;
+  color: var(--dgreen);
+  background-color: var(--dgreen);
+  height: 2px;
 }
 
 #name {
        #height: 70px;
        #width:800px;
-	color: #666666;
+	color: var(--beige);
 	font-size: 32px;
 	font-weight: bold;
 	text-align: center;
@@ -63,14 +81,13 @@ font-weight: bold;
 	margin: 15px auto 15px auto;        
 }
 
-
 a {
-    color: #6d6554;
+    color: var(--beige);
     text-decoration: none;
 }
 
 a:hover {
-    color: #272222;
+    color: var(--dgreen);
 }
 
 #main {
@@ -78,7 +95,7 @@ a:hover {
 	margin-right: auto;
 	margin-left: auto;
 	margin-bottom: 0;
-   width:650px;
+  width:675px;
         #background:#9c9;
 }
 
@@ -94,11 +111,11 @@ a:hover {
 }
 
 #main bold {
-color: #272222;
+color: var(--green);
 }
 
 #main table.a {
-color: #555555;
+color: var(--beige);
 font-weight: 700;
 font-size: 16px;
 line-height:20px;
@@ -109,37 +126,38 @@ width: 300px;
 }
 
 #main table.teaching {
-color: #453c3b;
+color: ver(--green);
 font-weight: 100;
 font-size: 14px;
 line-height:20px;
 width: 650px;
 /*margin-bottom: 40px;*/
 border-collapse: collapse;
-border:#666 1px solid;
+border:var(--dgreen) 1px solid;
 }
 
 .teaching th {
 font-weight: 900;
 font-size: 18px;
+background-color: #45434b;
 }
 .teaching tr:nth-child(2n+3) {
-    background-color: #e5d6ba;
+    background-color: #28272c;
   }
 .teaching tr:nth-child(2n+2) {
-    background-color: #f1edda;
+    background-color: #171c16;
   }
 
 #main h1 {
   	#font-family: 'ArialMT', 'Arial', 'sans-serif';
-	color: #666666;
+	color: var(--beige);
 	font-size: 28px;
 	font-weight: bold;
 	text-align: center;
 }
 
 #main h2 {
-	color: #666666;
+	color: ver(--green);
 
 }
 
