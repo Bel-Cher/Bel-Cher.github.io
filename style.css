@@ -126,7 +126,7 @@ width: 300px;
 }
 
 #main table.teaching {
-color: ver(--green);
+color: #869582;
 font-weight: 100;
 font-size: 14px;
 line-height:20px;
@@ -140,6 +140,7 @@ border:var(--dgreen) 1px solid;
 font-weight: 900;
 font-size: 18px;
 background-color: #45434b;
+color: var(--beige)
 }
 .teaching tr:nth-child(2n+3) {
     background-color: #28272c;
@@ -157,7 +158,7 @@ background-color: #45434b;
 }
 
 #main h2 {
-	color: ver(--green);
+	color: var(--beige);
 
 }
 
